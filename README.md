@@ -1,2 +1,14 @@
-# adylize-website-launch-checklist
-Website launch checklists, SEO setup, analytics implementation and conversion optimization resources.
+# Adylize Website Launch Checklist
+
+Website deployment and optimization resources.
+
+## Checklist Areas
+
+- Technical SEO
+- Google Analytics
+- Google Search Console
+- Conversion Tracking
+- Performance Optimization
+- GEO Optimization
+
+Website: https://adylize.com
